@@ -52,6 +52,7 @@ func(beans_obj)
 func(mango_obj)
 ~~~
 ## Output
+<img width="554" height="280" alt="image" src="https://github.com/user-attachments/assets/8ea746a6-9c3e-482a-a964-96cc7dbb48c9" />
 
 ## Result
 Thus, the program has been executed successfully.
