@@ -54,6 +54,7 @@ print("Area of Rectangle:", rect.calculate_area())
 print("Area of Circle:", round(circle.calculate_area(), 2))
 ~~~
 ## Output
+<img width="702" height="153" alt="image" src="https://github.com/user-attachments/assets/b5c638b4-6986-45ba-909a-22a918197c3c" />
 
 ## Result
 Thus the program has been executed successfully.
