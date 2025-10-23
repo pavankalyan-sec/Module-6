@@ -32,6 +32,7 @@ for obj in objects:
     obj.type()
 ~~~
 ## OUTPUT
+<img width="685" height="163" alt="image" src="https://github.com/user-attachments/assets/8d59c3cd-11d5-4a79-9c74-98308dc235db" />
 
 ## RESULT
 Thus, the program has been executed successfully.
