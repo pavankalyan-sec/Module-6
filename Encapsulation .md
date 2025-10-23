@@ -45,6 +45,7 @@ my_rectangle.display_dimensions()
 # print(my_rectangle.__length)
 ~~~
 ## Output
+<img width="807" height="203" alt="image" src="https://github.com/user-attachments/assets/2ea1ad84-8a01-41b9-9f00-7ce4517655b6" />
 
 ## Result
 Thus, the program has been executed successfully.
