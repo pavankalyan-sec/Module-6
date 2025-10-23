@@ -36,7 +36,7 @@ box2 = Box(150)
 if box1 < box2:
     print("Box 1 is smaller than Box 2.")
 else:
-    print("Box 1 is not smaller than Box 2.
+    print("Box 1 is not smaller than Box 2.")
 ~~~
 ## Output
 <img width="915" height="107" alt="image" src="https://github.com/user-attachments/assets/a5413cff-844a-43f1-9e0b-b13bf0c32f5b" />
